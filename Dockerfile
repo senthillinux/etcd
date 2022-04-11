@@ -1,5 +1,5 @@
 FROM      ubuntu:14.04
-MAINTAINER      Senthil Kumar "senthilkumar.manoharan@tnqsoftware.co.in"
+MAINTAINER      Senthil Kumar
 # Update ubuntu and download dependencies
 RUN apt-get -y update
 RUN apt-get -y install curl 
